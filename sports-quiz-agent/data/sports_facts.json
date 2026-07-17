@@ -1,0 +1,26 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "The first official Test match was played in 1877 between Australia and England."
+  },
+  {
+    "sport": "Football",
+    "fact": "The FIFA World Cup was first held in 1930 and won by Uruguay."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "India won the Thomas Cup in 2022."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Wimbledon is the oldest tennis tournament in the world."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The NBA was founded in 1946."
+  },
+  {
+    "sport": "Hockey",
+    "fact": "India has won eight Olympic gold medals in field hockey."
+  }
+]
