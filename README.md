@@ -6,6 +6,7 @@ The project demonstrates **Retrieval-Augmented Generation (RAG)** by retrieving 
 
 ---
 
+
 # 📌 Project Overview
 
 Traditional quiz applications use fixed questions stored in a database, making them repetitive and outdated.
